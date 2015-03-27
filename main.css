@@ -1,0 +1,135 @@
+body{
+			width: 1350px;
+		}
+		.header{
+			background-color: rgb(100,98,102);
+			height: 165px;
+			padding: 1px 1px 1px 50px;
+			letter-spacing: 3px;
+			font-weight: bold;
+			color: white;
+			
+		}	
+		.logo{
+			float: left;
+			padding-top: 40px;
+		}
+		.title{
+			
+			font-size: 50px;
+			padding-top: 10px;
+			padding-left: 20px;
+			float: left;
+		}
+
+		.theme{
+			font-style: italic;
+			font-size: 30px;
+			float: left;
+			padding-top: 40px;
+			padding-left: 20px;
+		}
+		.nav li{
+			display: inline;
+			padding: 100px;
+		}
+		.nav{
+			height: 100px;
+		}
+		.content1{
+			width: 100%;
+
+		}
+		.caption{
+			position: absolute;
+			padding-top: 250px;
+			z-index: 10;
+			color: white;
+			font-size: 30px;
+			letter-spacing: 5px;
+		}
+		.content1_1{
+			width: 300px;
+			height: 370px;
+			position: absolute;
+			left: 1058px;
+			top:291px;
+			background-color: rgb(100,98,102);
+			opacity: .7;
+		}
+		.content2{
+			height: 1900px;
+			padding: 40px;
+		}
+		.content2_1{
+			width: 1000px;
+			float: left;
+			height: 500px;
+		}
+		.content2_2{
+			float: right;
+			
+			width: 250px;
+			
+		}
+		.links{
+			font-size: 30px;
+			padding-top: 50px;
+		}
+		.collection{
+			float: left;
+			font-size: 40px;
+		}
+		.collection_image{
+			float: right;
+		}
+		hr{
+			clear: both;
+		}
+		.content2_2 li{
+			list-style: none;
+			padding-top: 15px;
+			padding-left: 20px;
+			background-color:rgb(216, 213, 188);
+			margin-bottom: 5px;
+		}
+		.place1{
+			float: left;
+			font-size: 50px;
+		}
+		.date1{
+			float: right;
+			font-size: 30px;
+		}
+		.theme2{
+			font-size: 30px;
+		}
+		.footer{
+			height: 200px;
+			background-color:rgb(216, 213, 188);
+			clear: both;
+		}
+		.contest{
+			
+		}
+		.contest_title{
+			font-size: 20px;
+			text-align: center;
+		}
+		.contest_content{
+			text-align: center;
+			clear: both;
+			padding: 5px;
+		}
+		.help{
+			font-size: 30px;
+			padding: 20px;
+
+		}
+		.help{
+			float: left;
+		}
+		.contact{
+			float: right;
+			padding: 20px;
+		}
